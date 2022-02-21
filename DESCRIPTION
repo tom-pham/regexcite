@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Tom",
            family = "Pham",
            role = c("aut", "cre"),
-           email = "thtupham@gmail.com"
+           email = "thtupham@gmail.com")
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
